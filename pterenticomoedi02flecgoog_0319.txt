@@ -1,0 +1,44 @@
+’ 1111111111 arsurumne 1111
+
+V. lad 197 iambici 10110111
+· 198 ad 204 iambici octonarii
+
+“ · 20501206101111110100110111
+· 207 ad 215 iambici octonarii
+- 216 iambicus senarius
+- 217 ad 242 trochaici septenarii
+- 243 ad 273 iambici septenarii
+· 274 ad 280 trochaici septenarii
+- 281 trochaicus octonarius
+· 282 01 283 trochaici septenarii
+- 284110011010111 octonarius
+- 285 ad 238 trochaici septenarii
+· 289 ad 291 trochaici octonarii
+· 292 trochaicus septenarius ’
+- 293 ad 324 iambici octonarii
+- 325 01326 iambici septenarii
+· 32701335101111110110110111
+· ,336 ad 360 iambici septenarii
+· 361 ad 408 trochaici septenarii
+- 409 ad 450 iambici 10110111
+- 451 ad 485 trochaici septenarii
+· 486 015151010110100110111
+· 516 517 519 trochaici octonarii
+- 518 trochaicus septenarius
+- 520110011010111 dimeter catalecticus
+- 521 iambicus octonarius
+- 522 trochaicus septenarius
+
+· 523 iambicus septenarius
+
+- 524 520 527 trochaici octonarii
+
+· 525 01 523 trochaici septenarii
+
+· 529 532 ad 534 trochaici octonarii
+
+· 530 01531 535 ad 543 trochaici septenarii
+- 544 ad 540 iambici octonarii
+
+ 
+
